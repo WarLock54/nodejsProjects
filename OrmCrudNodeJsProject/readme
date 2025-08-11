@@ -1,0 +1,2 @@
+ORM library to serve as a connection between our backend application and our relational database.
+ We also explored advanced concepts such as database migrations and CRUD operations.
