@@ -1,0 +1,8 @@
+(MindsDbNodeJsProject)
+Create a machine learning-based prediction model with MindsDB using vacation data stored in the vacations table in the PostgreSQL database.
+Using this model, predict the estimated vacation cost based on the vacation destination and duration.
+Additionally, manage the database structure by performing migration operations using Knex.js in a Node.js environment.
+Perform CRUD (Create, Read, Update, Delete) operations via a RESTful API.
+(OrmCrudNodeJsProject)
+ORM library to serve as a connection between our backend application and our relational database.
+ We also explored advanced concepts such as database migrations and CRUD operations.
