@@ -24,3 +24,7 @@ out/
 
 # Coverage raporları
 coverage/
+
+# Paket dosyaları
+package.json
+package-lock.json
